@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My PhotoPicker</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="APPLICATION_ID">ca-app-pub-3940256099942544~3347511713</string>
+</resources>
